@@ -28,3 +28,4 @@ for line in f: # read each line
             lst.apppend(w) # add it to the list
         lst.sort() # sort the list
 print(lst) # print the list
+
