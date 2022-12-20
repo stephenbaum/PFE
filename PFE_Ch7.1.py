@@ -15,3 +15,4 @@ for line in fh: # go over each line in fh
     line_cl = line.rstrip() # remove the white space from things
     line_up = line_cl.upper() # then, get stuff in uppercase
     print(line_up)
+    
