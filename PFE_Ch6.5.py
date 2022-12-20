@@ -14,3 +14,5 @@ print(start, end) # confirms that these are far out lines
 
 dec = text[start: end+1] # this isolates the value of interest
 print(float(dec)) # prints the float
+
+
